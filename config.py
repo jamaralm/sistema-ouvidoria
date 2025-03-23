@@ -1,6 +1,6 @@
 DB_CONFIG = {
     "user": "root",
-    "password": "Koinoni@42*",
+    "password": "",
     "host": "localhost",
     "database": "Ouvidoria"
 }
